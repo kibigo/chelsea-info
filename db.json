@@ -1,0 +1,60 @@
+{
+  "players":[
+      {
+          "id":1,
+          "name":"Robert Sanchez",
+          "position":"Goalkeeper",
+          "previousteam":[
+              "Brighton",
+              "Arsenal",
+              "Manchester United"
+          ],
+          "birth":"Spain",
+          "shirt":1,
+          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Sanchez_profile_avatar_23-24-removebg.png"
+      },
+      {
+          "id":2,
+          "name":"Marcus Bettinelli",
+          "position":"Goalkeeper",
+          "previousteam":[
+              "Fulham",
+              "Arsenal",
+              "Manchester United"
+          ],
+          "birth":"England",
+          "shirt":12,
+          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Bettinelli_profile_avatar_23-24-removebg.png"
+      },{
+          "id":3,
+          "name":"Marc Cucurella",
+          "position":"Defender",
+          "previousteam":[
+              "Luton",
+              "Manchester City",
+              "Manchester United"
+          ],
+          "birth":"Brazil",
+          "shirt":3,
+          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Avatar_3333x5000_Cucurella.png"
+      }
+  ],
+
+  "fixtures":[
+      {
+          "teams": "Chelsea vs Arsenal",
+          "date":"09/10/2023",
+          "time":"12:00"
+      },
+      {
+          "teams": "Chelsea vs Liverpool",
+          "date":"10/10/2023",
+          "time":"14:00"
+      },
+      {
+          "teams": "Chelsea vs Manchester City",
+          "date":"09/11/2023",
+          "time":"1:00"
+      }
+  ]
+}
