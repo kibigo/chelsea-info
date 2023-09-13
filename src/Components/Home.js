@@ -10,6 +10,7 @@ const Home = () => {
             <p>John Terry paid tribute to the memory of Gianluca Vialli 
                 when reflecting on a 4-0 win for the Chelsea Legends over 
                 our Bayern Munich counterparts at Stamford Bridge last night.</p>
+                
         </div>
     )
 }

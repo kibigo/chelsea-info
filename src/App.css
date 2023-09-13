@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  background-color: antiquewhite;
 }
 
 .App-logo {
@@ -35,4 +35,49 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.nav {
+  background-color: darkgrey;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  font-size: 150%;
+}
+
+.nav a {
+  padding: 30px;
+  color: blue;
+}
+
+.formmain{
+  
+  margin-left: 500px;
+}
+.formmain input{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: burlywood;
+  margin-top: 10px;
+  border-radius: 5px;
+
+}
+
+.formmain button{
+  padding: 7px;
+  border-radius: 5px;
+  background-color: blue;
+  color: black;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+img{
+  width: 200px;
+}
+
+.allplayers{
+  font-size: 120%;
+  
 }

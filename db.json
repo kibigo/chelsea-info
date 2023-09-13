@@ -1,60 +1,75 @@
 {
-  "players":[
-      {
-          "id":1,
-          "name":"Robert Sanchez",
-          "position":"Goalkeeper",
-          "previousteam":[
-              "Brighton",
-              "Arsenal",
-              "Manchester United"
-          ],
-          "birth":"Spain",
-          "shirt":1,
-          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Sanchez_profile_avatar_23-24-removebg.png"
-      },
-      {
-          "id":2,
-          "name":"Marcus Bettinelli",
-          "position":"Goalkeeper",
-          "previousteam":[
-              "Fulham",
-              "Arsenal",
-              "Manchester United"
-          ],
-          "birth":"England",
-          "shirt":12,
-          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Bettinelli_profile_avatar_23-24-removebg.png"
-      },{
-          "id":3,
-          "name":"Marc Cucurella",
-          "position":"Defender",
-          "previousteam":[
-              "Luton",
-              "Manchester City",
-              "Manchester United"
-          ],
-          "birth":"Brazil",
-          "shirt":3,
-          "image":"https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Avatar_3333x5000_Cucurella.png"
-      }
+  "players": [
+    {
+      "id": 1,
+      "name": "Robert Sanchez",
+      "position": "Goalkeeper",
+      "previousteam": [
+        "Brighton",
+        "Arsenal",
+        "Manchester United"
+      ],
+      "birth": "Spain",
+      "shirt": 1,
+      "image": "https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Sanchez_profile_avatar_23-24-removebg.png"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Bettinelli",
+      "position": "Goalkeeper",
+      "previousteam": [
+        "Fulham",
+        "Arsenal",
+        "Manchester United"
+      ],
+      "birth": "England",
+      "shirt": 12,
+      "image": "https://img.chelseafc.com/image/upload/f_auto,h_860,q_50/editorial/people/first-team/2023-24/Bettinelli_profile_avatar_23-24-removebg.png"
+    },
+    {
+      "name": "Reece James",
+      "position": "Defender",
+      "previousteam": [
+        "Luton",
+        "Derby",
+        "Fulham"
+      ],
+      "birth": "England",
+      "shirt": "24",
+      "image": "https://img.chelseafc.com/image/upload/f_auto,w_400,q_90/editorial/people/first-team/2023-24/Avatar_3333x5000_James.png",
+      "id": 5
+    }
   ],
-
-  "fixtures":[
-      {
-          "teams": "Chelsea vs Arsenal",
-          "date":"09/10/2023",
-          "time":"12:00"
-      },
-      {
-          "teams": "Chelsea vs Liverpool",
-          "date":"10/10/2023",
-          "time":"14:00"
-      },
-      {
-          "teams": "Chelsea vs Manchester City",
-          "date":"09/11/2023",
-          "time":"1:00"
-      }
+  "fixtures": [
+    {
+      "id": 1,
+      "teams": "Chelsea vs Arsenal",
+      "date": "09/10/2023",
+      "time": "12:00"
+    },
+    {
+      "id": 2,
+      "teams": "Chelsea vs Liverpool",
+      "date": "10/10/2023",
+      "time": "14:00"
+    },
+    {
+      "id": 3,
+      "teams": "Chelsea vs Manchester City",
+      "date": "09/11/2023",
+      "time": "1:00"
+    },
+    {
+      "teams": "Chelsea vs Leeds",
+      "date": "12/12/2022",
+      "time": "16:00",
+      "id": 11
+    },
+    {
+      "teams": "leeds vs chelsea",
+      "date": "10/10/2023",
+      "time": "12:00",
+      "id": 12
+    }
   ]
 }
