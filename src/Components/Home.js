@@ -1,6 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
-const Home = () => {
+const Home = ({isLoggedIn}) => {
+    const navigate = useNavigate()
+
+    if(!isLoggedIn){
+        navigate('/login');
+        
+    }
+
+
     return (
         <div>
             <h1>Chelsea Football Team</h1> <br/>

@@ -54,6 +54,13 @@
   
   margin-left: 500px;
 }
+
+.nav button{
+  color: blue;
+  width: 60px;
+  height: 40px;
+  margin-top: 35px;
+}
 .formmain input{
   display: block;
   justify-content: center;
